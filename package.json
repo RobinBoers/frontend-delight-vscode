@@ -4,6 +4,7 @@
     "description": "Frontend Delight color scheme for VSCode",
     "author": "Robin Boers",
     "publisher": "RobinBoers",
+    "repository": "https://github.com/RobinBoers/frontend-delight",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
