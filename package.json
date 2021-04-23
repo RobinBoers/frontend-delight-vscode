@@ -2,7 +2,10 @@
     "name": "frontend-delight",
     "displayName": "Frontend Delight",
     "description": "Frontend Delight color scheme for VSCode",
-    "author": "Robin Boers",
+    "author": {
+        "name": "Robin Boers",
+        "url": "https://geheimesite.nl"
+    },
     "publisher": "RobinBoers",
     "repository": "https://github.com/RobinBoers/frontend-delight",
     "version": "0.0.1",

@@ -5,7 +5,20 @@
 		"editor.background": "#242526",
 		"editor.foreground": "#adadad",
 		"activityBarBadge.background": "#f74319",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBar.background": "#242526",
+		"sideBarSectionHeader.background":"#37373D",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"titleBar.activeBackground": "#1f1f20",
+		"titleBar.inactiveBackground": "#1f1f20",
+		"focusBorder": "#f74319",
+		"statusBar.noFolderBackground": "#007ACC",
+		"button.background": "#f74319",
+		"button.hoverBackground": "#fc5631",
+		"button.secondaryBackground": "#f74319",
+		"button.secondaryHoverBackground": "#fc5631",
+		"notificationLink.foreground": "#f74319",
+		"textLink.activeForeground": "#fc6d4e",
+		"textLink.foreground": "#fc5631",
 	},
 	"tokenColors": [
 		{
@@ -59,26 +72,26 @@
 				"foreground": "#5fac6d"
 			}
 		},
-		{
-			"name": "Operator, Misc",
-			"scope": [
-				"keyword.control",
-				"constant.other.color",
-				"punctuation",
-				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
-			],
-			"settings": {
-				"foreground": "#4fbce6"
-			}
-		},
+		// {
+		// 	"name": "Operator, Misc",
+		// 	"scope": [
+		// 		"keyword.control",
+		// 		"constant.other.color",
+		// 		"punctuation",
+		// 		"meta.tag",
+		// 		"punctuation.definition.tag",
+		// 		"punctuation.separator.inheritance.php",
+		// 		"punctuation.definition.tag.html",
+		// 		"punctuation.definition.tag.begin.html",
+		// 		"punctuation.definition.tag.end.html",
+		// 		"punctuation.section.embedded",
+		// 		"keyword.other.template",
+		// 		"keyword.other.substitution"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#4fbce6"
+		// 	}
+		// },
 		{
 			"name": "Tag",
 			"scope": [
