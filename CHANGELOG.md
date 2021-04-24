@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
 
+## [1.0.1] - 2021-04-23
+### Changed
+- Improved editor theme
+- Some color tweaks
+
 ## [1.0.0] - 2021-04-21
 ### Added
 - Colorscheme
