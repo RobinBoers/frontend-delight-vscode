@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
 
+## [1.0.2] - 2021-07-31
+### Changed
+- Improved editor theme (based on GitHub Dark Classic)
+- Syntax hightlighting for markdown
+
 ## [1.0.1] - 2021-04-23
 ### Changed
 - Improved editor theme
@@ -15,4 +20,4 @@ Download the latest release here: <https://github.com/RobinBoers/frontend-deligh
 ### Added
 - Colorscheme
 - README
-- Screenshow
+- Screenshot
