@@ -39,7 +39,7 @@
 		"tab.unfocusedActiveBorder": "#24292e",
 		"tab.activeBorderTop": "#f74319",
 		"editorGroup.border": "#141516",
-		"focusBorder": "#fc6d4e",
+		"focusBorder": "#f74319",
 		"statusBar.foreground": "#d1d5da",
 		"statusBar.background": "#1b1c1d",
 		"statusBar.border": "#141516",
