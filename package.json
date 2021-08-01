@@ -18,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Frondend Delight",
+                "label": "Frontend Delight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Frondend Delight-color-theme.json"
+                "path": "./themes/Frontend Delight-color-theme.json"
             }
         ]
     }
