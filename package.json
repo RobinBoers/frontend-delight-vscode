@@ -8,7 +8,7 @@
     },
     "publisher": "RobinBoers",
     "repository": "https://github.com/RobinBoers/frontend-delight",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.55.0"
     },
