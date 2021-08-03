@@ -355,24 +355,11 @@
 		  }
 		},
 		{
-		  "name": "XML Base",
-		  "scope": [
-			"entity.name.tag.localname.xml",
-			"punctuation.definition.tag.begin.xml",
-			"punctuation.definition.tag.end.xml"
-		  ],
-		  "settings": {
-			"fontStyle": "",
-			"foreground": "#70B880"
-		  }
-		},
-		{
 		  "name": "html attribute",
 		  "scope": [
 			"entity.other.attribute-name.html",
-			"entity.other.attribute-name.localname.xml",
-			"string.quoted.single.xml",
-			"string.quoted.double.xml"],
+			"entity.other.attribute-name.localname.xml"
+			],
 		  "settings": {
 			"fontStyle": "",
 			"foreground": "#ff8b19"
@@ -382,7 +369,9 @@
 		  "name": "html attribute value",
 		  "scope": [
 			"string.quoted.double.html",
-			"string.quoted.single.html"
+			"string.quoted.single.html",
+			"string.quoted.single.xml",
+			"string.quoted.double.xml"
 		  ],
 		  "settings": {
 			"fontStyle": "",
@@ -394,7 +383,9 @@
 		  "scope": [
 			"punctuation.definition.tag.begin.html",
 			"punctuation.definition.tag.end.html",
-			"meta.tag.structure.any.html"
+			"meta.tag.structure.any.html",
+			"punctuation.definition.tag.begin.xml",
+			"punctuation.definition.tag.end.xml"
 		  ],
 		  "settings": {
 			"fontStyle": "bold",
@@ -554,7 +545,8 @@
 			"entity.other.attribute-name.attribute.css",
 			"entity.other.attribute-name.pseudo-class.css",
 			"keyword.operator.less",
-			"entity.name.tag"
+			"entity.name.tag",
+			"entity.name.tag.localname.xml"
 		  ],
 		  "settings": {
 			"foreground": "#f6475d"
