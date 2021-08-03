@@ -368,7 +368,11 @@
 		},
 		{
 		  "name": "html attribute",
-		  "scope": "entity.other.attribute-name.html",
+		  "scope": [
+			"entity.other.attribute-name.html",
+			"entity.other.attribute-name.localname.xml",
+			"string.quoted.single.xml",
+			"string.quoted.double.xml"],
 		  "settings": {
 			"fontStyle": "",
 			"foreground": "#ff8b19"
