@@ -21,6 +21,11 @@
                 "label": "Frontend Delight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Frontend Delight-color-theme.json"
+            },
+            {
+                "label": "Frontend Delight Enhanced",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Frontend Delight Enhanced-color-theme.json"
             }
         ]
     }
