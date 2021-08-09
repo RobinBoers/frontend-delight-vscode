@@ -169,7 +169,11 @@
 			"meta.string-contents.quoted.single.php",
 			"string.quoted.variable.parameter.url",
 			"string.quoted.single.css",
-			"string.quoted.single.css"
+			"string.quoted.single.css",
+			"string.quoted.double.elixir",
+			"string.quoted.single.elixir",
+			"string.quoted.double.python",
+			"string.quoted.single.python",
 		  ],
 		  "settings": {
 			"fontStyle": "",
@@ -214,7 +218,9 @@
 			"variable.other.global.safer.php",
 			"entity.name.type.class.php",
 			"entity.other.inherited-class.php",
-			"meta.function.php"
+			"meta.function.php",
+			"variable.other.constant.elixir",
+			"variable.parameter.function-call.python"
 		  ],
 		  "settings": {
 			"fontStyle": "",
@@ -270,7 +276,9 @@
 		},
 		{
 		  "name": "Ruby :elem",
-		  "scope": "constant.other.symbol.ruby",
+		  "scope": ["constant.other.symbol.ruby", 
+			"constant.other.symbol.elixir"
+		  ],
 		  "settings": {
 			"fontStyle": "",
 			"foreground": "#3fa5d4"
@@ -371,7 +379,7 @@
 			"string.quoted.double.html",
 			"string.quoted.single.html",
 			"string.quoted.single.xml",
-			"string.quoted.double.xml"
+			"string.quoted.double.xml",
 		  ],
 		  "settings": {
 			"fontStyle": "",
