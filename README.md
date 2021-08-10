@@ -26,3 +26,6 @@ Default version displaying JavaScript
 ![Enhanced version displaying JavaScript](./preview2_enhanced.png)  
 Enhanced version displaying JavaScript  
 
+## Credits
+
+<https://github.com/bernatfortet>
