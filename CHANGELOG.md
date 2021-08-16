@@ -2,6 +2,10 @@
 
 Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
 
+## [1.0.4] - 2021-08-16
+### Changed
+- Made editor colors less purplish
+
 ## [1.0.3] - 2021-08-03
 ### Changed
 - Changed highlighting color in editor and minimap
