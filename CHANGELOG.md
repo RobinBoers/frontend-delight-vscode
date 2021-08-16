@@ -5,6 +5,7 @@ Download the latest release here: <https://github.com/RobinBoers/frontend-deligh
 ## [1.0.4] - 2021-08-16
 ### Changed
 - Made editor colors less purplish
+- Added partial language support for Python and Exixir (in Enhanced version)
 
 ## [1.0.3] - 2021-08-03
 ### Changed
