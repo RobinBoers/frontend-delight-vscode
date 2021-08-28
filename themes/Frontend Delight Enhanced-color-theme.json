@@ -6,6 +6,7 @@
 		"editor.foreground": "#adadad",
 		"editor.selectionBackground": "#f0796685",
 		"minimap.selectionHighlight": "#f0796685",
+		"peekViewEditor.background": "#1f242888",
 		// "editor.selectionForeground": "#242527",
 		// "editorLineNumber.activeForeground": "#303030",
 		// "window.activeBorder": "#f74319",
@@ -14,6 +15,10 @@
 		"activityBar.background": "#1e2121",
 		"activityBar.border": "#141516",
 		"panel.border": "#141516",
+		"panel.background": "#1b1c1d",
+		"panelTitle.activeBorder": "#f74319",
+    	"panelTitle.activeForeground": "#ffffff",
+    	"panelTitle.inactiveForeground": "#adadad",
 		"activityBar.activeBorder": "#f74319",
 		"sideBar.background": "#1b1c1d",
 		"sideBarSectionHeader.background":"#1b1c1d",
@@ -87,7 +92,15 @@
 		"terminal.ansiMagenta": "#f02e4f",
 		"terminal.ansiRed": "#f8511b",
 		"terminal.ansiWhite": "#adadad",
-		"terminal.ansiYellow": "#fa771d"
+		"terminal.ansiYellow": "#fa771d",
+		"terminal.tab.activeBorder": "#f74319",
+		"gitDecoration.addedResourceForeground": "#34d058",
+		"gitDecoration.modifiedResourceForeground": "#79b8ff",
+		"gitDecoration.deletedResourceForeground": "#ea4a5a",
+		"gitDecoration.untrackedResourceForeground": "#34d058",
+		"gitDecoration.ignoredResourceForeground": "#6a737d",
+		"gitDecoration.conflictingResourceForeground": "#ffab70",
+		"gitDecoration.submoduleResourceForeground": "#6a737d",
 	},
 	"semanticHighlighting": false,
 	"tokenColors": [
@@ -174,6 +187,7 @@
 			"string.quoted.single.elixir",
 			"string.quoted.double.python",
 			"string.quoted.single.python",
+			"string.quoted.svelte"
 		  ],
 		  "settings": {
 			"fontStyle": "",
@@ -366,6 +380,7 @@
 		  "name": "html attribute",
 		  "scope": [
 			"entity.other.attribute-name.html",
+			"entity.other.attribute-name.svelte",
 			"entity.other.attribute-name.localname.xml"
 			],
 		  "settings": {
@@ -554,7 +569,8 @@
 			"entity.other.attribute-name.pseudo-class.css",
 			"keyword.operator.less",
 			"entity.name.tag",
-			"entity.name.tag.localname.xml"
+			"entity.name.tag.localname.xml",
+			"support.class.component.svelte"
 		  ],
 		  "settings": {
 			"foreground": "#f6475d"
