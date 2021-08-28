@@ -6,6 +6,7 @@ Download the latest release here: <https://github.com/RobinBoers/frontend-deligh
 ### Changed
 - Added support for Svelte (in Enhanced version)
 - Fixed #1
+- Changed focusBorder to a darker color
 
 ## [1.0.4] - 2021-08-16
 ### Changed
