@@ -17,7 +17,7 @@ Version v1.0.3+ contains two color themes:
 ![Default version displaying HTML and PHP](./preview1.png)  
 Default version displaying HTML and PHP  
 
-![Enhanced version displaying HTML and PHP](./preview1_enhanced.png)  
+![Enhanced version displaying HTML and PHP](./screenshot.png)  
 Enhanced version displaying HTML and PHP  
 
 ![Default version displaying JavaScript](./preview2.png)  
