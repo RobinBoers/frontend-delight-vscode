@@ -6,9 +6,12 @@
         "name": "Robin Boers",
         "url": "https://geheimesite.nl"
     },
+    "icon": "icon.png",
     "publisher": "RobinBoers",
-    "repository": "https://github.com/RobinBoers/frontend-delight",
-    "version": "1.0.6",
+    "repository": {
+		"url": "https://github.com/RobinBoers/frontend-delight-vscode.git"
+	},
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.55.0"
     },

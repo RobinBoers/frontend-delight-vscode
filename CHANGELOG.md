@@ -1,6 +1,14 @@
-# Change Log
+# Changelog
 
 Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
+Install from marketplace: <https://marketplace.visualstudio.com/items?itemName=RobinBoers.frontend-delight>
+
+## [1.0.7] - 2021-09-04
+### Changed
+- Cleaned up changelog
+
+### Added
+- Icon
 
 ## [1.0.6] - 2021-09-04
 ### Added
@@ -8,21 +16,25 @@ Download the latest release here: <https://github.com/RobinBoers/frontend-deligh
 
 ## [1.0.5] - 2021-08-28
 ### Changed
-- Added support for Svelte (in Enhanced version)
 - Fixed #1
 - Changed focusBorder to a darker color
+
+### Added
+- Added support for Svelte (in Enhanced version)
 
 ## [1.0.4] - 2021-08-16
 ### Changed
 - Made editor colors less purplish
+
+### Added
 - Added partial language support for Python and Exixir (in Enhanced version)
 
 ## [1.0.3] - 2021-08-03
 ### Changed
 - Changed highlighting color in editor and minimap
-- Added terminal colors (from [theme.sh](https://github.com/lemnos/theme.sh))
 
 ### Added
+- Added terminal colors (from [theme.sh](https://github.com/lemnos/theme.sh))
 - Added Default theme based on original Sublime theme
 - Added Enhanced theme based on the default theme but with minor edits
 
