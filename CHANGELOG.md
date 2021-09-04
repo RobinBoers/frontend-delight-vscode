@@ -2,6 +2,10 @@
 
 Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
 
+## [1.0.6] - 2021-09-04
+### Added
+- Published in Marketplace
+
 ## [1.0.5] - 2021-08-28
 ### Changed
 - Added support for Svelte (in Enhanced version)
