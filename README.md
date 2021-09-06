@@ -1,16 +1,13 @@
 # Frontend Delight
 
-Frontend Delight is my favorite color scheme.  
-I use it in Vim, Alacritty, Firefox, Qtile and Spotify. I also made it into a VSCode color scheme.  
-It isnt perfect, but good enough for me. The UI for v1.0.2+ is based on the GitHub Dark (Classic) theme.  
-Enjoy :)
+Frontend Delight color scheme for VSCode. Inspired by Frontend Delight for Sublime text.
 
 Original creator: <https://github.com/bernatfortet>
 
-Version v1.0.3+ contains two color themes:
+This extension contains two color themes:
 
 - **Frontend Delight**: the original Sublime Theme converted to VSCode
-- **Frontend Delight Enhanced**: the same as the original, but with edits by me
+- **Frontend Delight Enhanced**: support for more languages, color changes and other edits by me
 
 ## Screenshots
 
@@ -28,4 +25,5 @@ Enhanced version displaying JavaScript
 
 ## Credits
 
+Inspired by:  
 <https://github.com/bernatfortet>
