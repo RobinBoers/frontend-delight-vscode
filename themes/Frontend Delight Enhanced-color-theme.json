@@ -196,7 +196,7 @@
 		},
 		{
 		  "name": "Constant Numeric",
-		  "scope": "constant.numeric",
+		  "scope": ["constant.numeric"],
 		  "settings": {
 			"fontStyle": "",
 			"foreground": "#fb5b1d"
@@ -291,7 +291,8 @@
 		{
 		  "name": "Ruby :elem",
 		  "scope": ["constant.other.symbol.ruby", 
-			"constant.other.symbol.elixir"
+			"constant.other.symbol.elixir",
+			"constant.language.symbol.elixir"
 		  ],
 		  "settings": {
 			"fontStyle": "",
