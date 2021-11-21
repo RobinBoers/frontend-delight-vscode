@@ -576,6 +576,15 @@
 		  "settings": {
 			"foreground": "#f6475d"
 		  }
+		},
+		{
+			"name": "Unimportant",
+			"scope": [
+				"comment.documentation.heredoc.elixir"
+			],
+			"settings": {
+			  "foreground": "#646464"
+			}
 		}
 	],
 }
