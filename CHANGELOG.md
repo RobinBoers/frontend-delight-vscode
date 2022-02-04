@@ -1,6 +1,6 @@
 # Changelog
 
-Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
+Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>  
 Install from marketplace: <https://marketplace.visualstudio.com/items?itemName=RobinBoers.frontend-delight>
 
 ## [1.0.8] - 2021-02-04
