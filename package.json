@@ -11,7 +11,7 @@
     "repository": {
         "url": "https://github.com/RobinBoers/frontend-delight-vscode.git"
     },
-    "version": "1.0.8",
+    "version": "1.0.9",
     "engines": {
         "vscode": "^1.55.0"
     },

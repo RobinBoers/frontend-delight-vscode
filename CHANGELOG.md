@@ -3,6 +3,11 @@
 Download the latest release here: <https://github.com/RobinBoers/frontend-delight/releases/latest>
 Install from marketplace: <https://marketplace.visualstudio.com/items?itemName=RobinBoers.frontend-delight>
 
+## [1.0.8] - 2021-02-04
+### Added
+- Darker theme
+- Cursor lineheight
+
 ## [1.0.7] - 2021-09-04
 ### Changed
 - Cleaned up changelog
