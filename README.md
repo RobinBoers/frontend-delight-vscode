@@ -8,6 +8,7 @@ This extension contains two color themes:
 
 - **Frontend Delight**: the original Sublime Theme converted to VSCode
 - **Frontend Delight Enhanced**: support for more languages, color changes and other edits by me
+- **Frontend Delight Dark**: all of the above with a much darker background
 
 ## Screenshots
 
