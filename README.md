@@ -1,10 +1,8 @@
 # Frontend Delight
 
-Frontend Delight color scheme for VSCode. Inspired by Frontend Delight for Sublime text.
+Frontend Delight color scheme for VSCode. Inspired by Frontend Delight for Sublime text created by [Bernat Fortet](https://github.com/bernatfortet).
 
-Original creator: <https://github.com/bernatfortet>
-
-This extension contains two color themes:
+This themes includes three variants:
 
 - **Frontend Delight**: the original Sublime Theme converted to VSCode
 - **Frontend Delight Enhanced**: support for more languages, color changes and other edits by me
@@ -26,5 +24,4 @@ Enhanced version displaying JavaScript
 
 ## Credits
 
-Inspired by:  
-<https://github.com/bernatfortet>
+Inspired by [sublime-frontend-delight](https://github.com/bernatfortet/sublime-frontend-delight).
